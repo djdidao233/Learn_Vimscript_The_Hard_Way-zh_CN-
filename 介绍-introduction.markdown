@@ -7,7 +7,7 @@ It is *not* a guide to *using* Vim.  Before reading this book you should be
 comfortable editing text in Vim and know what terms like "buffer", "window" and
 "insert mode" mean.
 
-它*不是* Vim 的使用指南。在阅读这本书之前，你应该熟悉在 Vim 中编辑文本，并了解“缓冲”、“窗口”和“插入模式”等术语的含义。
+它*不是* Vim 的*使用*入门书。在阅读这本书之前，你应该熟悉在 Vim 中编辑文本，并了解“缓冲”、“窗口”和“插入模式”等术语的含义。
 
 The book is divided roughly into three sections:
 
