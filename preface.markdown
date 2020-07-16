@@ -24,21 +24,24 @@ which they'll be doing many things:
 
 * Getting raw text from their brains into their computers.
 
-把他们脑海里不敢让语文老师看见的文本藏进电脑
+* 把他们脑海里不敢让语文老师看见的文本藏进电脑
+
 * Correcting mistakes in that text.
 
-把文本里为数不多的正确部分挑出来
+* 把文本里为数不多的正确部分挑出来
+
 * Restructuring the text to formulate a problem in a different way.
 
-把挑剩下的搞不定的问题一一转换成搞得定的问题——实在搞不定的问题会被转换成BUG。
+* 把挑剩下的搞不定的问题一一转换成搞得定的问题——实在搞不定的问题会被转换成BUG。
+
 * Documenting how and why something was done a particular way.
 
-写注释,记录一下这些bug是怎么解决的,用了哪种姿势进行的Ctrl-C+V.
-不写注释的话连写代码的人自己都看不懂自己写的是个啥.
-没解决的烂摊子也用注释标记一下,好让后来者痛哭流涕，感受正道的光.
+* 写注释,记录一下这些bug是怎么解决的,用了哪种姿势进行的Ctrl-C+V.
+不写注释的话连写代码的人自己都看不懂自己写的是个啥.没解决的烂摊子也用注释标记一下,好让后来者痛哭流涕，感受正道的光.
+
 * Communicating with other programmers about all of these things.
 
-上大型同性交友平台和其他~~CtrlCVer~~程序员打招呼:今天你bug了吗
+* 上大型同性交友平台和其他~~CtrlCVer~~程序员打招呼:今天你bug了吗
 
 Vim is incredibly powerful out of the box, but it doesn't truly shine until you
 take some time to customize it for your particular work, habits, and fingers.
@@ -48,7 +51,7 @@ personal text editing needs and make the rest of your time in Vim more
 efficient.
 
 Vim 就是一个非常强大的文本编辑器，但是如果你不花点时间为你的工作、习惯和手指定制 Vim，它就不会真正出彩。
-本书将向您介绍 Vimscript —— 一种主要用于自定义 Vim 的编程语言。你可以个性化定制 Vim  
+本书将向您介绍 Vimscript —— 一种主要用于自定义 Vim 的编程语言。你可以个性化定制 Vim ， 
 把它打造成一个适合自己个人文本编辑需要的编辑器，并且使你日后 在 Vim 中的花费的时间更有效率。
 
 Along the way I'll also mention things that aren't strictly about Vimscript, but
@@ -98,11 +101,11 @@ Vimscript is a different experience from learning a normal programming language.
 
 * You need to **type in *all* the commands.**
 
-**在键盘上敲入*所有*的命令。**
+* **在键盘上敲入*所有*的命令。**
 
 * You need to **do *all* the exercises.**
 
-**动脑思考演算*所有*的问题。**
+* **动脑思考演算*所有*的问题。**
 
 There are two reasons this is so important.  First, Vimscript is old and has
 a lot of dusty corners and twisty hallways.  One configuration option can change
