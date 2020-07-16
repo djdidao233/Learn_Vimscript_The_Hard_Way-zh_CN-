@@ -51,7 +51,7 @@ personal text editing needs and make the rest of your time in Vim more
 efficient.
 
 Vim 就是一个非常强大的文本编辑器，但是如果你不花点时间为你的工作、习惯和手指定制 Vim，它就不会真正出彩。
-本书将向您介绍 Vimscript —— 一种主要用于自定义 Vim 的编程语言。你可以个性化定制 Vim ， 
+本书将向您介绍 Vimscript —— 一种主要用于自定义 Vim 的编程语言。你可以个性化定制 Vim ，
 把它打造成一个适合自己个人文本编辑需要的编辑器，并且使你日后 在 Vim 中的花费的时间更有效率。
 
 Along the way I'll also mention things that aren't strictly about Vimscript, but
@@ -124,7 +124,7 @@ Many of the Vimscript commands you'll learn can be used in your day-to-day
 editing as well, but they're only helpful if they're in your muscle memory,
 which simply doesn't happen from just reading.
 
-其次，Vimscript 是 Vim 的一部分。想要在 Vim 中保存文件，需要输入`: write` (或缩写成`: w`) ，然后按 return。
+其次，Vimscript 是 Vim 的一部分。想要在 Vim 中保存文件，需要输入`:write` (或缩写成`:w`) ，然后按 return。
 要在 Vimscript 中保存文件，可以使用`write`。你将学到的许多 Vimscript 命令也可以用于你的日常编辑，
 但是只有它们被你的手指所记忆时才能发挥效果，而想凭借阅读达成肌肉记忆是相当困难的。
 
