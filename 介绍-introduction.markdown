@@ -1,7 +1,7 @@
 [Learn Vimscript the Hard Way][book] is a book for users of the [Vim][Vim] editor
 who want to learn how to customize Vim.
 
-[Learn Python the Hard Way][book] 是一本面向希望学习如何定制 [Vim][Vim] 的 Vim 用户的书。
+[Learn Vimscript the Hard Way][book] 是一本面向希望学习如何定制 [Vim][Vim] 的 Vim 用户的书。
 
 It is *not* a guide to *using* Vim.  Before reading this book you should be
 comfortable editing text in Vim and know what terms like "buffer", "window" and
