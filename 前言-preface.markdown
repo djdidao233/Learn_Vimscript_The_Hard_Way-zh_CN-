@@ -41,7 +41,7 @@ which they'll be doing many things:
 
 * Communicating with other programmers about all of these things.
 
-* 上大型同性交友平台和其他~~CtrlCVer~~程序员打招呼:今天你bug了吗
+* 上~~大型同性交友平台~~社区和其他~~CtrlCVer~~程序员打招呼:今天你bug了吗
 
 Vim is incredibly powerful out of the box, but it doesn't truly shine until you
 take some time to customize it for your particular work, habits, and fingers.
