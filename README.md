@@ -1,6 +1,6 @@
-# Vim的学习记录
+# “笨方法”学 Vimscript
 
-## 第一步 翻译 
+## 关于翻译
 * ~~《用坚硬的方式折磨手指》~~ 
 * ~~《学习Vim脚本的硬汉之路》~~
 * ~~《论如何用模式劝退无数新手》~~
@@ -8,8 +8,21 @@
 * ~~《把节省下来的时间加倍放在折腾.vimrc上》~~
 * ~~《VIM自传——从文本编辑器到编程语言的逆袭之路》~~
 * ~~《在21世纪还用着命令行编程的我是不是搞错了些什么》~~
+* 此处参照[*Learn_Python_The_Hard_Way*]的中文版译名[《“笨方法”学Python》]
+* "笨"来自成语"笨鸟先飞"
+* [原文链接]
+* 此翻译只用作学习交流
 
-## ~~第二步 放qi~~
+[*Learn_Python_The_Hard_Way*]:http://learnpythonthehardway.org/
+[《“笨方法”学Python》]:https://www.epubit.com/bookDetails?id=UBb6400a092399
+[原文链接]:https://learnvimscriptthehardway.stevelosh.com/
+
+## 关于作者
+
+Steve Losh的[个人主页]
+
+
+[个人主页]:https://stevelosh.com/
 
 ## 目录
 
@@ -132,3 +145,4 @@
 #### 55.分发-Distribution
 
 #### 56.下一步-What Now?
+
